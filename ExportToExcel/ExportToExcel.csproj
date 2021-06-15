@@ -39,6 +39,7 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="Dto\FooDto.cs" />
+        <Compile Include="Dto\PaymentTypeEnum.cs" />
         <Compile Include="ExportService\ExportToExcelService.cs" />
         <Compile Include="ExportService\IExportToExcelService.cs" />
         <Compile Include="Program.cs" />
